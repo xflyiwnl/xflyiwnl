@@ -2,8 +2,8 @@
 
 Good to see you on my GitHub page!
 
-## 🐖 What I do ##
-# I write plugins for Minecraft servers
+## 🐖 What I do
+* I write plugins for Minecraft servers
 * I layout websites and write backstack developer for them. 
 * And something else...
 
